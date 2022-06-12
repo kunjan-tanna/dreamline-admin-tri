@@ -1,0 +1,15 @@
+{
+  "short_name": "Dreamline",
+  "name": "Dreamline",
+  "icons": [
+    {
+      "src": "iCon-512.png",
+      "sizes": "80x80 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

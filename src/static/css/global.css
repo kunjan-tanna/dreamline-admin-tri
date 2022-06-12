@@ -1,0 +1,86 @@
+.alertify-notifier .ajs-message.ajs-error {
+  font-size: 15px;
+}
+
+.alertify-notifier .ajs-message.ajs-success {
+  font-size: 15px;
+}
+
+.alertify .ajs-body .ajs-content {
+  padding: 16px 0px !important;
+}
+
+.alertify .ajs-header {
+  background-color: #7b67ed;
+}
+
+.alertify .ajs-header em {
+  font-style: normal !important;
+  color: #ffffff;
+}
+
+.alertify .ajs-footer .ajs-buttons .ajs-button.ajs-ok {
+  color: #7b67ed;
+}
+
+.alertify .ajs-commands button {
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+
+.MuiDialog-paperWidthSm {
+  width: 100% !important;
+}
+
+.MuiOutlinedInput-root {
+  border-radius: 16px !important;
+}
+
+.MuiButton-root {
+  border-radius: 12px !important;
+}
+
+.MuiButton-containedPrimary:hover {
+  box-shadow: 0px 12px 33px 0px #e8eafc, 0 3px 3px -2px #b2b2b21a,
+    0 1px 8px 0 #9a9a9a1a !important;
+  background-color: #9989f1 !important;
+}
+input.form-control:focus {
+  outline: none !important;
+  border: 2px solid #9989f1 !important;
+  border-radius: 16px !important;
+}
+.colorPick {
+  display: flex;
+  align-items: center;
+}
+.colorPick .MuiFormControl-root {
+  flex-direction: row;
+}
+.colorPick .MuiFormControl-root span {
+  margin-left: 5px;
+}
+.colorPick .MuiButtonBase-root .MuiButton-label {
+  background: #7665de;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.pickedColor .MuiButtonBase-root .MuiButton-label {
+  background: #c30707;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.pickedColorMain {
+  display: flex;
+  flex-wrap: wrap;
+}
+.pickedColor {
+  background: #ededed;
+  padding: 2px 10px;
+  display: flex;
+  align-items: center;
+  margin: 5px 4px 0 4px;
+  width: calc(33% - 8px);
+}

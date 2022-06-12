@@ -1,0 +1,7 @@
+.MuiListItem-root.MuiListItem-button.Mui-selected {
+    background-color: #6666FF !important;
+    color:#fff;
+}
+.MultiSelectInput {
+    border-bottom: 0.01em #6666FF solid;
+}

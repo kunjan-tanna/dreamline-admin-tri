@@ -1,0 +1,26 @@
+.MuiListItem-root.MuiListItem-button.Mui-selected {
+    background-color: #6666FF !important;
+    color:#fff;
+}
+.MultiSelectInput {
+    border-bottom: 0.01em #6666FF solid;
+}
+
+.sizeDivField .MuiBox-root:nth-child(2) {
+    margin-left: 10px;
+}
+.sizeDivField .MuiBox-root:nth-child(3) {
+    margin-left: 10px;
+}
+.MuiSelect-outlined.MuiSelect-outlined {
+    border-radius: 16px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+   margin: 0;
+}
+input[type="number"] {
+   -moz-appearance: textfield;
+}
